@@ -1,0 +1,6 @@
+train: C:\yolo\train
+val: C:\yolo\val
+
+nc: 4
+
+names: ["call","dislike","like", "peace"]
